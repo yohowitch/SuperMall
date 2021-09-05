@@ -1,5 +1,5 @@
 # supermall
-## coderwhy电商项目介绍
+
 ## Project setup
 ```
 npm install
