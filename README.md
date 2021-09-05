@@ -27,9 +27,9 @@
 
 
 ### 4.踩坑记录
-> 1） Better-Scroll 设置时 一定要注意wrapper的高度小于content的高度，否则滑动无效果
-> 2） 使用position对wrapper进行定位时top和bottom是一定要定义的
-> 3） 路由路径映射里是component不是components
+> * 1） Better-Scroll 设置时 一定要注意wrapper的高度小于content的高度，否则滑动无效果
+> * 2） 使用position对wrapper进行定位时top和bottom是一定要定义的
+> * 3） 路由路径映射里是component不是components
 > 
 > 其实还有很多踩坑，一下子实在没想起，下回再更新。项目还有不足，将会一直更新的哟~ 
 > network的request.js里写数据接口，记得修改~~
